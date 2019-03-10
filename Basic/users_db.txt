@@ -1,0 +1,9 @@
+Albert|Albert123|13000
+Etta|123456|5890
+alpha|98765|200
+Mike|456|30000
+Alice|098
+Bob|594
+amy|ai1
+uni|567u
+uni|5678u
